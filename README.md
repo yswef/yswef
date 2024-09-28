@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 - I'm a beginner currently learning and eager to make friends. I love connecting with more experienced people to learn from them. I'm friendly and enjoy having fun while I learn! 
-warning ! If you talk to me, you will fall in love with me. I warned you, I love you
+warning !
 
 
 <!---
