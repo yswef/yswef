@@ -1,75 +1,28 @@
-# 🚀 Yousuf Al-Hamzi | Software Developer
-### *Transforming Ideas into Interactive Code | Python Enthusiast*
+# 💫 About Me:
+🔭 I'm currently working on: Full-stack web applications, intelligent web scrapers, and custom Windows system utilities — including AlphaCode Extractor and Beautiful Beginning.<br><br>👯 I'm looking to collaborate on: Open-source projects in PHP/Laravel & Python, web automation tools, and scalable backend architectures.<br><br>🤝 I'm looking for help with: Advanced OS-level scripting and deeper desktop application integration.<br><br>🌱 I'm currently learning: Advanced system architecture, cross-platform performance optimization, and virtualization internals.<br><br>💬 Ask me about: Laravel, Flask, Python, Playwright, web scraping, WordPress/Elementor, and Git workflows.<br><br>⚡ Fun fact: By day I architect complex software systems — by night I lead high-level strategy in alliance operations! 🎮
 
-Hey there! 👋 I'm Yousuf, a developer driven by a deep passion for software engineering, app development, and creating engaging games. I believe in continuous learning, building robust systems, and collaborating with the community to write better code every day.
 
-> *"Always learning, always building."*
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.sta23) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yswef&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yswef&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yswef&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ What I Do & What I'm Learning
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🐍 **Core Focus:** Deeply exploring **Python** for backend logic, automation, and application development.
-- 🎮 **Passions:** Game development and crafting intuitive desktop applications.
-- 🌱 **Currently Learning:** Advanced software architecture, UI/UX for desktop apps, and integrating APIs.
-- 🤝 **Looking to Collaborate:** On open-source Python projects, desktop tools, or exciting game concepts.
-- 💬 **Ask Me About:** Python fundamentals, automation scripts, or my latest desktop tool projects!
-
----
-
-## 💻 Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yswef&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yswef&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Analytics
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/yswef) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yswef&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Yousuf's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yswef&theme=radical&hide_border=false" alt="Yousuf's GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yswef&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Yousuf's Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yswef&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Yousuf's Trophies" />
-</div>
-
----
-
-## 📬 Let's Connect!
-
-I'm always open to feedback, mentorship, or just a good chat about tech. Reach out to me:
-
-<p align="left">
-  <a href="https://instagram.com/anme_king1090" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/anme_king1090" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://wa.me/967780143832" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yswef&icon=0&color=1" alt="Profile Views" />
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
